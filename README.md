@@ -17,14 +17,12 @@ Files
 • CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data   
 • run_analysis.R performs preparation of the data according to the assignment requirements:   
   
-o Merges the training and the test sets to create one data
-set.   
+o Merges the training and the test sets to create one data set.   
 o Extracts only the measurements on the mean and standard deviation for each measure
 ment.   
 o Uses descriptive activity names to name the activities in the data set   
-o Appropriately labels the data set with descriptive variable
-names. o From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each s
+o Appropriately labels the data set with descriptive variable names. 
+o From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each s
 ubject.   
   
-• final_data.txt is the exported final data after going through all the sequences describ
-ed above.
+• final_data.txt is the exported final data after going through all the sequences described above.
